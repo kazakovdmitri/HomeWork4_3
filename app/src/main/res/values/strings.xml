@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork4_3</string>
+    <string name="ok">OK</string>
+    <string name="date_start">Дата-время старта задачи: </string>
+    <string name="date_finish">Дата-время окончания задачи: </string>
+    <string name="error">Ошибка! Дата начала не может быть больше даты окончания!</string>
+    <string name="result">Старт: %s Окончание: %s</string>
+</resources>
